@@ -1,0 +1,6 @@
+utilisateur ==> 
+bonus direct 
+bonus indirect
+
+
+variable pour chaque categorie
